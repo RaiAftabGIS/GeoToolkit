@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ali",
+        "city": "Lahore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.3587, 31.5204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ahmed",
+        "city": "Kasur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.4467, 31.1156]
+      }
+    }
+  ]
+}
